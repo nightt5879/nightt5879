@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 ![nightt's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightt5879&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightt5879&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nightt5879)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nightt5879&show_icons=true&theme=dark)
+
 

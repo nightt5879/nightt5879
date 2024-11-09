@@ -27,12 +27,8 @@ Source repository: <https://github.com/nightt5879/nightt5879>
 -->
 
 <p align="center">
-    <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20nightt5879!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
-<p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+complete+newbie +in+programming!" />
 </p>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -51,18 +47,10 @@ Source repository: <https://github.com/nightt5879/nightt5879>
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=nightt5879&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" />
 </p>
 <p align="center">
-    <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,latex,regex,mermaid,matlab&titles=true">
-</p>
-<p align="center">
     <!-- https://github.com/badges/shields -->
     <a href="https://github.com/nightt5879"><img src="https://img.shields.io/badge/GitHub-nightt5879-blue?logo=github" /></a>
-    <a href="https://gitee.com/nightt5879"><img src="https://img.shields.io/badge/Gitee-nightt5879-blue?logo=gitee" /></a>
+    <a href="https://gitee.com/nightt_aj"><img src="https://img.shields.io/badge/Gitee-nightt5879-blue?logo=gitee" /></a>
     <a href="https://space.bilibili.com/23620249"><img src="https://img.shields.io/badge/哔哩哔哩-这里是啊J-pink?logo=bilibili" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <img src="https://komarev.com/ghpvc/?username=nightt5879" />
-</p>
-<p align="center">
-    <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>

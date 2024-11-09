@@ -25,7 +25,11 @@ ATTENTION:
 
 Source repository: <https://github.com/nightt5879/nightt5879>
 -->
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nightt5879/nightt5879/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nightt5879/nightt5879/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nightt5879/nightt5879/output/github-contribution-grid-snake.svg">
+</picture>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
     <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+complete+newbie +in+programming!" />

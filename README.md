@@ -58,8 +58,7 @@ Source repository: <https://github.com/nightt5879/nightt5879>
     <!-- https://github.com/badges/shields -->
     <a href="https://github.com/nightt5879"><img src="https://img.shields.io/badge/GitHub-nightt5879-blue?logo=github" /></a>
     <a href="https://gitee.com/nightt5879"><img src="https://img.shields.io/badge/Gitee-nightt5879-blue?logo=gitee" /></a>
-    <a href="https://space.bilibili.com/23620249"><img src="https://img.shields.io/badge/哔哩哔哩-我就是小康-pink?logo=bilibili" /></a>
-    <a href="https://wakatime.com/@nightt5879"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" /></a>
+    <a href="https://space.bilibili.com/23620249"><img src="https://img.shields.io/badge/哔哩哔哩-这里是啊J-pink?logo=bilibili" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <img src="https://komarev.com/ghpvc/?username=nightt5879" />
 </p>

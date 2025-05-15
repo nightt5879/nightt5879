@@ -24,6 +24,12 @@ SOFTWARE.
 ATTENTION:
 
 Source repository: <https://github.com/nightt5879/nightt5879>
+
+
+<p align="center">
+     https://github.com/DenverCoder1/readme-typing-svg 
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+complete+newbie +in+programming!" />
+
 -->
 
 <picture>
@@ -32,10 +38,6 @@ Source repository: <https://github.com/nightt5879/nightt5879>
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-<!--
-<p align="center">
-    <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+complete+newbie +in+programming!" />
 
 </p>
 <p align="center">

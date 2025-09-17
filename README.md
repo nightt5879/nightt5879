@@ -42,15 +42,17 @@ Source repository: <https://github.com/nightt5879/nightt5879>
   <picture>
     <!-- 浅色模式 -->
     <source media="(prefers-color-scheme: light)"
-            srcset="https://pixel-profile.vercel.app/api/github-stats?username=nightt5879&theme=road_trip&pixelate_avatar=true" />
-    <!-- 深色模式（也用同一主题；需要的话可换成别的 dark 主题） -->
+            srcset="https://pixel-profile.vercel.app/api/github-stats?username=nightt5879&theme=road_trip&pixelate_avatar=true&screen_effect=true&dithering=true" />
+    <!-- 深色模式 -->
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://pixel-profile.vercel.app/api/github-stats?username=nightt5879&theme=road_trip&pixelate_avatar=true" />
-    <img alt="nightt5879's GitHub Stats (pixelated avatar, road_trip)"
-         src="https://pixel-profile.vercel.app/api/github-stats?username=nightt5879&theme=road_trip&pixelate_avatar=true" />
+            srcset="https://pixel-profile.vercel.app/api/github-stats?username=nightt5879&theme=road_trip&pixelate_avatar=true&screen_effect=true&dithering=true" />
+    <img alt="nightt5879's GitHub Stats (Pixel Profile Road Trip)"
+         src="https://pixel-profile.vercel.app/api/github-stats?username=nightt5879&theme=road_trip&pixelate_avatar=true&screen_effect=true&dithering=true" />
   </picture>
 </p>
 
+
+<!--
 </p>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -58,16 +60,22 @@ Source repository: <https://github.com/nightt5879/nightt5879>
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=nightt5879&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <img width="400" src="https://streak-stats.demolab.com?user=nightt5879&theme=transparent&hide_border=true" />
+     -->
+<!--
 </p>
+
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=nightt5879&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<!--
 </p>
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=nightt5879&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" />
 </p>
+-->
+
 <p align="center">
     <!-- https://github.com/badges/shields -->
     <a href="https://github.com/nightt5879"><img src="https://img.shields.io/badge/GitHub-nightt5879-blue?logo=github" /></a>

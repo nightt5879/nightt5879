@@ -52,32 +52,27 @@ Source repository: <https://github.com/nightt5879/nightt5879>
 </p>
 
 
-<!-- 
+<!-- 统计和 streak 图表已注释掉
 <p align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=nightt5879&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" />
-    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <img width="400" src="https://streak-stats.demolab.com?user=nightt5879&theme=transparent&hide_border=true" />
 </p>
 -->
 
 <p align="center">
-    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <!-- 贡献曲线保留 -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=nightt5879&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </p>
 
-<!--
+<!-- trophy 也注释掉
 <p align="center">
-    <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=nightt5879&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" />
 </p>
 -->
 
 <p align="center">
-    <!-- https://github.com/badges/shields -->
     <a href="https://github.com/nightt5879"><img src="https://img.shields.io/badge/GitHub-nightt5879-blue?logo=github" /></a>
     <a href="https://gitee.com/nightt_aj"><img src="https://img.shields.io/badge/Gitee-nightt5879-blue?logo=gitee" /></a>
     <a href="https://space.bilibili.com/23620249"><img src="https://img.shields.io/badge/哔哩哔哩-这里是啊J-pink?logo=bilibili" /></a>
-    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <img src="https://komarev.com/ghpvc/?username=nightt5879" />
 </p>

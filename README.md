@@ -38,6 +38,18 @@ Source repository: <https://github.com/nightt5879/nightt5879>
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+<p align="center">
+  <picture>
+    <!-- 浅色模式 -->
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://pixel-profile.vercel.app/api/github-stats?username=nightt5879&theme=road_trip&pixelate_avatar=true" />
+    <!-- 深色模式（也用同一主题；需要的话可换成别的 dark 主题） -->
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://pixel-profile.vercel.app/api/github-stats?username=nightt5879&theme=road_trip&pixelate_avatar=true" />
+    <img alt="nightt5879's GitHub Stats (pixelated avatar, road_trip)"
+         src="https://pixel-profile.vercel.app/api/github-stats?username=nightt5879&theme=road_trip&pixelate_avatar=true" />
+  </picture>
+</p>
 
 </p>
 <p align="center">

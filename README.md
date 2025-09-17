@@ -52,26 +52,23 @@ Source repository: <https://github.com/nightt5879/nightt5879>
 </p>
 
 
-<!--
-</p>
+<!-- 
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=nightt5879&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <img width="400" src="https://streak-stats.demolab.com?user=nightt5879&theme=transparent&hide_border=true" />
-     -->
-<!--
 </p>
+-->
 
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=nightt5879&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-<!--
 </p>
+
+<!--
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
-    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=nightt5879&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" />
 </p>
 -->

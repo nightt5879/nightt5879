@@ -52,7 +52,7 @@ Source repository: <https://github.com/nightt5879/nightt5879>
 -->
 
 <p align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=nightt5879&theme=transparent&show_icons=true&hide_border=true&hide_title=false&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&number_format=long&count_private=true&include_all_commits=true&custom_title=GitHub%20Overview" />
+    <img width="400" src="https://github-readme-stats-sigma-lake-86.vercel.app/api?username=nightt5879&theme=transparent&show_icons=true&hide_border=true&hide_title=false&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&number_format=long&count_private=true&include_all_commits=true&custom_title=GitHub%20Overview" />
     <img width="400" src="https://streak-stats.demolab.com?user=nightt5879&theme=transparent&hide_border=true" />
 </p>
 

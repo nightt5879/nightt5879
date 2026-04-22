@@ -28,7 +28,7 @@ Source repository: <https://github.com/nightt5879/nightt5879>
 
 <p align="center">
      https://github.com/DenverCoder1/readme-typing-svg 
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+complete+newbie +in+programming!" />
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+complete+newbie+in+programming!" />
 
 -->
 
@@ -51,9 +51,8 @@ Source repository: <https://github.com/nightt5879/nightt5879>
 </p>
 -->
 
-
 <p align="center">
-     <img width="400" src="https://github-readme-stats.vercel.app/api?username=nightt5879&theme=transparent&show_icons=true&hide_border=true&hide_title=true&number_format=long&count_private=true&include_all_commits=true&commits_year=2026" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=nightt5879&theme=transparent&show_icons=true&hide_border=true&hide_title=false&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&number_format=long&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats%20%28This%20Year%29" />
     <img width="400" src="https://streak-stats.demolab.com?user=nightt5879&theme=transparent&hide_border=true" />
 </p>
 

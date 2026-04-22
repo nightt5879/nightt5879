@@ -38,13 +38,11 @@ Source repository: <https://github.com/nightt5879/nightt5879>
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-<!--
+<!-- 暂时注释掉不稳定的 pixel-profile 卡片
 <p align="center">
   <picture>
-    <!-- 浅色模式 -->
     <source media="(prefers-color-scheme: light)"
             srcset="https://pixel-profile.vercel.app/api/github-stats?username=nightt5879&theme=road_trip&pixelate_avatar=true&screen_effect=true&dithering=true" />
-    <!-- 深色模式 -->
     <source media="(prefers-color-scheme: dark)"
             srcset="https://pixel-profile.vercel.app/api/github-stats?username=nightt5879&theme=road_trip&pixelate_avatar=true&screen_effect=true&dithering=true" />
     <img alt="nightt5879's GitHub Stats (Pixel Profile Road Trip)"

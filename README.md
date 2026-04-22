@@ -38,6 +38,7 @@ Source repository: <https://github.com/nightt5879/nightt5879>
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+<!--
 <p align="center">
   <picture>
     <!-- 浅色模式 -->
@@ -50,14 +51,13 @@ Source repository: <https://github.com/nightt5879/nightt5879>
          src="https://pixel-profile.vercel.app/api/github-stats?username=nightt5879&theme=road_trip&pixelate_avatar=true&screen_effect=true&dithering=true" />
   </picture>
 </p>
+-->
 
 
-<!-- 统计和 streak 图表已注释掉
 <p align="center">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=nightt5879&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" />
     <img width="400" src="https://streak-stats.demolab.com?user=nightt5879&theme=transparent&hide_border=true" />
 </p>
--->
 
 <p align="center">
     <!-- 贡献曲线保留 -->

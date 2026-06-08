@@ -38,6 +38,15 @@ Source repository: <https://github.com/nightt5879/nightt5879>
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+<!-- 个人网站卡片 / personal site card -->
+<p align="center">
+  <a href="https://nightt5879.pages.dev">
+    <img width="480" src="https://nightt5879.pages.dev/og.png" alt="Nightt — 个人网站 / personal site" />
+  </a>
+  <br/>
+  <a href="https://nightt5879.pages.dev"><img src="https://img.shields.io/badge/个人网站-nightt5879.pages.dev-8fb4ff?style=for-the-badge&logo=cloudflare&logoColor=white" alt="个人网站 personal site" /></a>
+</p>
+
 <!-- 暂时注释掉不稳定的 pixel-profile 卡片
 <p align="center">
   <picture>
@@ -70,6 +79,5 @@ Source repository: <https://github.com/nightt5879/nightt5879>
 <p align="center">
     <a href="https://github.com/nightt5879"><img src="https://img.shields.io/badge/GitHub-nightt5879-blue?logo=github" /></a>
     <a href="https://gitee.com/nightt_aj"><img src="https://img.shields.io/badge/Gitee-nightt5879-blue?logo=gitee" /></a>
-    <a href="https://space.bilibili.com/23620249"><img src="https://img.shields.io/badge/哔哩哔哩-这里是啊J-pink?logo=bilibili" /></a>
     <img src="https://komarev.com/ghpvc/?username=nightt5879" />
 </p>

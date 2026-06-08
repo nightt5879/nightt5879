@@ -42,9 +42,9 @@ Source repository: <https://github.com/nightt5879/nightt5879>
 <p align="center">
   <a href="https://nightt5879.com/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nightt5879/nightt5879/main/hero-dark.png" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nightt5879/nightt5879/main/hero-light.png" />
-      <img width="820" src="https://raw.githubusercontent.com/nightt5879/nightt5879/main/hero-dark.png" alt="Nightt · 个人网站 / personal site — nightt5879.com" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nightt5879/nightt5879/main/nightt-dark.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nightt5879/nightt5879/main/nightt-light.png" />
+      <img width="820" src="https://raw.githubusercontent.com/nightt5879/nightt5879/main/nightt-dark.png" alt="Nightt · 个人网站 / personal site — nightt5879.com" />
     </picture>
   </a>
   <br/>

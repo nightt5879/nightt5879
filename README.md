@@ -33,9 +33,9 @@ Source repository: <https://github.com/nightt5879/nightt5879>
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nightt5879/nightt5879/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/nightt5879/nightt5879/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nightt5879/nightt5879/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nightt5879/nightt5879/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/nightt5879/nightt5879/output/github-snake.svg" />
 </picture>
 
 <!-- 个人网站 / personal site — slim night-sky banner, auto light/dark -->
@@ -65,13 +65,22 @@ Source repository: <https://github.com/nightt5879/nightt5879>
 -->
 
 <p align="center">
-    <img width="400" src="https://github-readme-stats-sigma-lake-86.vercel.app/api?username=nightt5879&theme=transparent&show_icons=true&hide_border=true&hide_title=false&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&number_format=long&count_private=true&include_all_commits=true&custom_title=GitHub%20Overview" />
-    <img width="400" src="https://streak-stats.demolab.com?user=nightt5879&theme=transparent&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-lake-86.vercel.app/api?username=nightt5879&bg_color=00000000&show_icons=true&hide_border=true&number_format=long&count_private=true&include_all_commits=true&custom_title=GitHub%20Overview&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff" />
+    <img width="400" src="https://github-readme-stats-sigma-lake-86.vercel.app/api?username=nightt5879&bg_color=00000000&show_icons=true&hide_border=true&number_format=long&count_private=true&include_all_commits=true&custom_title=GitHub%20Overview&title_color=0969da&text_color=1f2328&icon_color=0969da&ring_color=0969da" alt="GitHub Overview" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nightt5879&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&stroke=58A6FF" />
+    <img width="400" src="https://streak-stats.demolab.com?user=nightt5879&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A&stroke=0969DA" alt="GitHub Streak" />
+  </picture>
 </p>
 
 <p align="center">
-    <!-- 贡献曲线保留 -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=nightt5879&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+  <!-- 贡献曲线 — 明暗自适应 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nightt5879&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=00000000&color=c9d1d9&title_color=58a6ff&line=58a6ff&point=58a6ff&area_color=58a6ff" />
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=nightt5879&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=00000000&color=1f2328&title_color=0969da&line=0969da&point=0969da&area_color=0969da" alt="Contribution Graph" />
+  </picture>
 </p>
 
 <!-- trophy 也注释掉

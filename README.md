@@ -41,7 +41,7 @@ Source repository: <https://github.com/nightt5879/nightt5879>
 <!-- 个人网站卡片 / personal site card -->
 <p align="center">
   <a href="https://nightt5879.pages.dev">
-    <img width="480" src="https://nightt5879.pages.dev/og.png" alt="Nightt — 个人网站 / personal site" />
+    <img width="480" src="https://raw.githubusercontent.com/nightt5879/nightt5879/main/og.png" alt="Nightt — 个人网站 / personal site" />
   </a>
   <br/>
   <a href="https://nightt5879.pages.dev"><img src="https://img.shields.io/badge/个人网站-nightt5879.pages.dev-8fb4ff?style=for-the-badge&logo=cloudflare&logoColor=white" alt="个人网站 personal site" /></a>

@@ -38,13 +38,17 @@ Source repository: <https://github.com/nightt5879/nightt5879>
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-<!-- 个人网站卡片 / personal site card -->
+<!-- 个人网站 / personal site — slim night-sky banner, auto light/dark -->
 <p align="center">
-  <a href="https://nightt5879">
-    <img width="480" src="https://raw.githubusercontent.com/nightt5879/nightt5879/main/og.png" alt="Nightt — 个人网站 / personal site" />
+  <a href="https://nightt5879.com/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nightt5879/nightt5879/main/banner-dark.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nightt5879/nightt5879/main/banner-light.png" />
+      <img width="820" src="https://raw.githubusercontent.com/nightt5879/nightt5879/main/banner-dark.png" alt="Nightt · 个人网站 / personal site — nightt5879.com" />
+    </picture>
   </a>
   <br/>
-  <a href="https://nightt5879v"><img src="https://img.shields.io/badge/个人网站-nightt5879-8fb4ff?style=for-the-badge&logo=cloudflare&logoColor=white" alt="个人网站 personal site" /></a>
+  <a href="https://nightt5879.com/"><img src="https://img.shields.io/badge/个人网站-nightt5879.com-8fb4ff?style=for-the-badge&logo=cloudflare&logoColor=white" alt="个人网站 personal site nightt5879.com" /></a>
 </p>
 
 <!-- 暂时注释掉不稳定的 pixel-profile 卡片

@@ -28,16 +28,40 @@ jobs:
         # list of files to generate.
         # one file per line. Each output can be customized with options as query string.
         #
-        #  supported options:
-        #  - palette:     A preset of color, one of [github, github-dark, github-light]
-        #  - color_snake: Color of the snake
-        #  - color_dots:  Coma separated list of dots color.
-        #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-        #                 Exactly 5 colors are expected.
+        #  supported options (see snk/packages/generate-snake-animation/outputsOptions.ts):
+        #  - palette:          A preset of color. 8 exist, not just the 3 in the docs:
+        #                      github-light/dark, forgejo-light/dark,
+        #                      codeberg-light/dark, gitlab-light/dark
+        #  - color_snake:      Color of the snake
+        #  - color_dots:       Coma separated list of dots color.
+        #                      The first one is 0 contribution, then it goes from the low contribution to the highest.
+        #                      Exactly 5 colors are expected. The first also becomes the "empty cell" color.
+        #  - color_dot_border: Undocumented. Stroke around each cell.
+        #  - color_background: GIF only — the SVG output draws no background rect (already transparent).
+        #
+        # Palette matches the rest of the README: #0969da (light) / #58a6ff (dark).
+        # The dot ramp climaxes at the theme accent; the snake sits one step further
+        # in the contrast direction so it stays readable on top of the brightest cells.
         outputs: |
-          dist/github-snake.svg
-          dist/github-snake-dark.svg?palette=github-dark
-          dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          dist/github-snake.svg?color_dots=#ebedf0,#b6dbff,#6cb6ff,#2f81f7,#0969da&color_snake=#0a3069
+          dist/github-snake-dark.svg?palette=github-dark&color_dots=#161b22,#0c2d6b,#12519e,#2f81f7,#58a6ff&color_snake=#a5d6ff&color_dot_border=#ffffff12
+
+    # snk hardcodes stepDurationMs: 100 and exposes no way to change it, so a full
+    # loop runs ~60s. All keyframes are percentages and the duration appears as a
+    # single value, so rewriting that one number rescales the animation uniformly.
+    - name: Cap animation length
+      run: |
+        TARGET=25000
+        for f in dist/*.svg; do
+          [ -e "$f" ] || continue
+          DUR=$(grep -o '[0-9][0-9]*ms' "$f" | sed 's/ms$//' | sort -rn | head -1)
+          if [ -n "$DUR" ] && [ "$DUR" -gt "$TARGET" ]; then
+            sed -i "s/${DUR}ms/${TARGET}ms/g" "$f"
+            echo "$f: ${DUR}ms -> ${TARGET}ms"
+          else
+            echo "$f: ${DUR:-no}ms (unchanged)"
+          fi
+        done
 
     - name: Deploy to GitHub Pages
       uses: crazy-max/ghaction-github-pages@v4

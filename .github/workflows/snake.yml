@@ -51,6 +51,9 @@ jobs:
     # single value, so rewriting that one number rescales the animation uniformly.
     - name: Cap animation length
       run: |
+        # snk is a Docker action and runs as root, so dist/ comes back root-owned
+        # and `sed -i` cannot create its temp file there.
+        sudo chown -R "$(id -u):$(id -g)" dist
         TARGET=25000
         for f in dist/*.svg; do
           [ -e "$f" ] || continue

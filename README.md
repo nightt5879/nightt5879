@@ -75,13 +75,14 @@ Source repository: <https://github.com/nightt5879/nightt5879>
   </picture>
 </p>
 
+<!-- 贡献曲线暂时隐藏：公共图片服务返回 402 DEPLOYMENT_DISABLED
 <p align="center">
-  <!-- 贡献曲线 — 明暗自适应 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nightt5879&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=00000000&color=c9d1d9&title_color=58a6ff&line=58a6ff&point=58a6ff&area_color=58a6ff" />
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=nightt5879&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=00000000&color=1f2328&title_color=0969da&line=0969da&point=0969da&area_color=0969da" alt="Contribution Graph" />
   </picture>
 </p>
+-->
 
 <!-- trophy 也注释掉
 <p align="center">
